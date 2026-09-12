@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T12:39:25Z",
+  "generated_at": "2026-09-12T15:56:58Z",
   "repository": "NepaliSource/NepaliCode",
   "source": {"kotlin_files": 42, "xml_files": 11, "kotlin_lines": 12029, "xml_lines": 185, "total_lines": 12214},
-  "github": {"stars": 4, "forks": 4, "open_issues": 0, "default_branch": "main"},
+  "github": {"stars": 5, "forks": 5, "open_issues": 0, "default_branch": "main"},
   "note": "Metrics are read from GitHub and the checked-in source; no artificial traffic or engagement is generated."
 }
